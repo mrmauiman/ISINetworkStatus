@@ -1,4 +1,4 @@
-{"totalCount": "5",
+{"totalCount": "7",
     "imdata": [
         {
             "ethpmDOMCurrentStats": {
@@ -79,6 +79,38 @@
                     "value": "23.410000"
                 }
             }
+        },
+        {
+          "ethpmDOMCurrentStats": {
+              "attributes": {
+                  "alert": "none",
+                  "childAction": "",
+                  "dn": "topology/pod-1/node-202/sys/phys-[eth2/3]/phys/domstats/current",
+                  "hiAlarm": "80.000000",
+                  "hiWarn": "70.000000",
+                  "loAlarm": "8.000000",
+                  "loWarn": "10.000000",
+                  "modTs": "never",
+                  "status": "",
+                  "value": "28.150000"
+              }
+          }
+        },
+        {
+          "ethpmDOMCurrentStats": {
+              "attributes": {
+                  "alert": "none",
+                  "childAction": "",
+                  "dn": "topology/pod-1/node-202/sys/phys-[eth2/3]/phys/domstats/current",
+                  "hiAlarm": "80.000000",
+                  "hiWarn": "70.000000",
+                  "loAlarm": "8.000000",
+                  "loWarn": "10.000000",
+                  "modTs": "never",
+                  "status": "",
+                  "value": "21.730000"
+              }
+          }
         }
       ]
 }
