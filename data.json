@@ -1,0 +1,84 @@
+{"totalCount": "5",
+    "imdata": [
+        {
+            "ethpmDOMCurrentStats": {
+                "attributes": {
+                    "alert": "none",
+                    "childAction": "",
+                    "dn": "topology/pod-1/node-201/sys/phys-[eth1/3]/phys/domstats/current",
+                    "hiAlarm": "80.000000",
+                    "hiWarn": "70.000000",
+                    "loAlarm": "8.000000",
+                    "loWarn": "10.000000",
+                    "modTs": "never",
+                    "status": "",
+                    "value": "22.520000"
+                }
+            }
+          },
+          {
+            "ethpmDOMCurrentStats": {
+                "attributes": {
+                    "alert": "none",
+                    "childAction": "",
+                    "dn": "topology/pod-1/node-201/sys/phys-[eth1/3]/phys/domstats/current",
+                    "hiAlarm": "80.000000",
+                    "hiWarn": "70.000000",
+                    "loAlarm": "8.000000",
+                    "loWarn": "10.000000",
+                    "modTs": "never",
+                    "status": "",
+                    "value": "22.520000"
+                }
+            }
+          },
+          {
+            "ethpmDOMCurrentStats": {
+                "attributes": {
+                    "alert": "none",
+                    "childAction": "",
+                    "dn": "topology/pod-1/node-201/sys/phys-[eth1/3]/phys/domstats/current",
+                    "hiAlarm": "80.000000",
+                    "hiWarn": "70.000000",
+                    "loAlarm": "8.000000",
+                    "loWarn": "10.000000",
+                    "modTs": "never",
+                    "status": "",
+                    "value": "25.210000"
+                }
+            }
+          },
+          {
+            "ethpmDOMCurrentStats": {
+                "attributes": {
+                    "alert": "none",
+                    "childAction": "",
+                    "dn": "topology/pod-1/node-201/sys/phys-[eth1/3]/phys/domstats/current",
+                    "hiAlarm": "80.000000",
+                    "hiWarn": "70.000000",
+                    "loAlarm": "8.000000",
+                    "loWarn": "10.000000",
+                    "modTs": "never",
+                    "status": "",
+                    "value": "19.740000"
+                }
+            }
+          },
+          {
+            "ethpmDOMCurrentStats": {
+                "attributes": {
+                    "alert": "none",
+                    "childAction": "",
+                    "dn": "topology/pod-1/node-201/sys/phys-[eth1/3]/phys/domstats/current",
+                    "hiAlarm": "80.000000",
+                    "hiWarn": "70.000000",
+                    "loAlarm": "8.000000",
+                    "loWarn": "10.000000",
+                    "modTs": "never",
+                    "status": "",
+                    "value": "23.410000"
+                }
+            }
+        }
+      ]
+}
